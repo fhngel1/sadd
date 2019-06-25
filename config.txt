@@ -1,0 +1,7 @@
+token=YourToken
+owner=338790213658607616
+prefix= 1
+
+stayinchannel=true
+
+songinstatus=true
