@@ -1,6 +1,6 @@
-token=YourToken
+token=NTA3MjUyODkyNjYzODA4MDIx.XRKfjg.OvLW9v_3klDXzG9N7_8ETKdI1E4
 owner=338790213658607616
-prefix= 1
+prefix= S
 
 stayinchannel=true
 
